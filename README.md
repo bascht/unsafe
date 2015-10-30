@@ -1,4 +1,4 @@
-# This Gem is unsafe
+# This Gem is unsafe [![Build Status](https://travis-ci.org/bascht/unsafe.svg?branch=master)](https://travis-ci.org/bascht/unsafe)
 
 Want to try Rust [unsafe{}](https://doc.rust-lang.org/book/unsafe.html)?
 Still stuck with Ruby?
