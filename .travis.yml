@@ -5,3 +5,5 @@ install:
   - cd ext/lose_kanone/
   - ruby extconf.rb
   - make
+env:
+  - RUBYLIB=ext
